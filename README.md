@@ -19,3 +19,6 @@
 3.  Copy `.env.example` to `.env` and fill in your test API keys.
 4.  Run the pipeline: `python main.py`
 5.  View the dashboard: `streamlit run dashboard/app.py`
+
+## Hackathon Note
+Built for the Razorpay AI Buildathon.
