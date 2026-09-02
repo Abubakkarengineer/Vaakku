@@ -24,3 +24,5 @@
 Built for the Razorpay AI Buildathon.
 
 Track 3: AI Revenue Recovery
+
+Vaakku means Promise in Tamil.
